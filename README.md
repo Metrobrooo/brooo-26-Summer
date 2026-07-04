@@ -1,21 +1,31 @@
 # AI_Summer 2026
 
->This repository records my learning in 2026 summer.
+>This repository records my during the summer of 2026.
+>
 >Mainly talking with ChatGPT.
 
-## Contents
+## 📚Contents
 - Module
-- Git & Github
+- Git & GitHub
 
 
-## Projects
+## 💻Projects
 
 ### Calculator (Python)
 
-Presently supported:
+Currently surpports:
 
--Add
--Subtract
--Multiply
--Devide
--Deal with simple errors(ValueError,ZeroDevisionError)
+- Add
+- Subtract
+- Multiply
+- Divide
+- Deal with simple errors(ValueError,ZeroDivisionError)
+
+
+## Repository Structure
+
+AI_Summer2026/
+├── src/
+├── README.md
+├── Learning_Log.md
+└── requirements.txt
