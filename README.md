@@ -4,12 +4,12 @@
 >
 >Mainly talking with ChatGPT.
 
-## 📚Contents
+## Contents
 - Module
 - Git & GitHub
 
 
-## 💻Projects
+## Projects
 
 ### Calculator (Python)
 
@@ -25,7 +25,11 @@ Currently surpports:
 ## Repository Structure
 
 AI_Summer2026/
+
 ├── src/
+
 ├── README.md
+
 ├── Learning_Log.md
+
 └── requirements.txt
