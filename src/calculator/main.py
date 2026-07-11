@@ -13,7 +13,8 @@ operations = {
 def main():
     print("Start Calculator: ")
     while True:
-        choice = input_utils.show_menu()
+        input_utils.show_menu()
+        choice = input("Enter your choice: ")
         if choice not in operations:
             print("Invalid choice")
             continue
