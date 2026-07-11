@@ -14,6 +14,11 @@ def divide(a, b):
         print("Cannot divide by zero")
         return None
 
+def exit_program():
+    print("Exiting...")
+    return None
+
+
 
 
 
